@@ -1,4 +1,4 @@
-<h1 align="center">Codeforces Analyzer</h1>
+<h1 align="center">Ransomware</h1>
 
 ## Features
 
